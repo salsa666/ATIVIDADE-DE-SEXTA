@@ -1,0 +1,42 @@
+.amarelo{
+  color: rgb(253, 204, 5);
+}
+
+h1{
+  text-align: center;
+}
+td, th {
+    padding: .7em;
+    margin: 0;
+    
+    text-align: center;
+  }
+  td{
+    font-weight:bold;
+  
+  }
+  
+  table{
+    width: 80%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+  .td1 {
+   background-color: rgb(150, 212, 208);
+
+  }
+
+.td2 {
+  background-color: rgb(149, 202, 173);
+}
+
+  .td3 {
+    background-color: rgb(244, 122, 49);
+  }
+
+  body {
+    background-color: rgb(76, 108, 165);
+    font-family: "Brush Script MT", cursive;
+  }
